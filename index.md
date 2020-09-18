@@ -3,8 +3,19 @@
 Profissional focado no desenvolvimento  de software, buscando a melhoria continua e diversificando seus conhecimentos.
 Com mais de 10 anos trabalhando com desenvolvimento de software e atuando na área de T.I, possui conhecimento e experiência suficiente para realizar análise de projeto, gerenciamento de projetos, desenvolvimento e implantação de sistemas.
 
+# Formação
 
+- Ensino Fundamental e Médio (Colégio Marista de Cascavel, 1993-2004)
+- Bacharelado em Sistema de Informação (Unipar, 2006-2009)
 
+# Formação Extracurricular
+
+- Inglês (CNA, 2000-2004) - Nível básico a avançado de conversação
+- Informática (Montagem e Manutenção de computadores)
+
+# Útlimas Experiências Profissionais
+
+#
 
 
 

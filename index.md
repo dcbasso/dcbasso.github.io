@@ -1,5 +1,13 @@
 ## Dante Cesar Basso Filho
 
+Profissional focado no desenvolvimento  de software, buscando a melhoria continua e diversificando seus conhecimentos.
+Com mais de 10 anos trabalhando com desenvolvimento de software e atuando na área de T.I, possui conhecimento e experiência suficiente para realizar análise de projeto, gerenciamento de projetos, desenvolvimento e implantação de sistemas.
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/dcbasso/dcbasso.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

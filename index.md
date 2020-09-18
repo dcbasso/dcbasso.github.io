@@ -17,7 +17,9 @@ Com mais de 10 anos trabalhando com desenvolvimento de software e atuando na ár
 
 ### Wealth Systems
 Maio de 2017 até o Agosto de 2020
+
 Cargo: Desenvolvedor Java Sênior
+
 Responsabilidades:
 - Planejar, organizar, estimar, projetar sistema CRM cloud com arquitetura de microserviços;
 - Desenvolver o backend em Java, realizando testes unitários (TDD, JUnit, Mockito) e de integração (Postman);
@@ -29,6 +31,23 @@ Responsabilidades:
 - Documentar APIs (Swagger, OpenAPI);
 - Desenvolver integração com AWS S3;
 - Desenvolver um manipulador de Arquivo Microsoft Office, utilizando a biblioteca Apache POI;
+
+
+### FREELANCER
+Junho de 2014 até maio de 2017
+
+Cargo: DevOps
+
+Responsabilidades:
+Atuei em diversos projetos diferentes com diferentes responsabilidades, dentre elas:
+- Analisar e Desenvolver sistemas Web, Desktop e Mobile;
+- Desenvolver Aplicativo Android (Android SDK/Nativo);
+- Desenvolver Backend de API REST utilizando Java, AWS RedShift e AWS S3;
+- Desenvolver frontend usando AngularJS, JavaScript, REST, Material Desing;
+- Desenvolver solução Desktop usando Qt (C/C+);
+- Desenvolver web application utilizando GCP (AppEngine, DNS e Data Storage;
+- Analisar e Desenvolvedor soluções de ETL, utilizando Kettle Pentaho;
+- Utilizar alguns produtos/soluções WSO2 (WSO2IS, WSO2AS);
 
 
 

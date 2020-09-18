@@ -1,21 +1,35 @@
-## Dante Cesar Basso Filho
+# Dante Cesar Basso Filho
 
 Profissional focado no desenvolvimento  de software, buscando a melhoria continua e diversificando seus conhecimentos.
 Com mais de 10 anos trabalhando com desenvolvimento de software e atuando na área de T.I, possui conhecimento e experiência suficiente para realizar análise de projeto, gerenciamento de projetos, desenvolvimento e implantação de sistemas.
 
-# Formação
+## Formação
 
 - Ensino Fundamental e Médio (Colégio Marista de Cascavel, 1993-2004)
 - Bacharelado em Sistema de Informação (Unipar, 2006-2009)
 
-# Formação Extracurricular
+## Formação Extracurricular
 
 - Inglês (CNA, 2000-2004) - Nível básico a avançado de conversação
 - Informática (Montagem e Manutenção de computadores)
 
-# Útlimas Experiências Profissionais
+## Útlimas Experiências Profissionais
 
-#
+### Wealth Systems
+Maio de 2017 até o Agosto de 2020
+Cargo: Desenvolvedor Java Sênior
+Responsabilidades:
+- Planejar, organizar, estimar, projetar sistema CRM cloud com arquitetura de microserviços;
+- Desenvolver o backend em Java, realizando testes unitários (TDD, JUnit, Mockito) e de integração (Postman);
+- Desenvolver uma pequena solução utilizando NodeJS;
+- Desenvolver e melhorar a parte de sincronizção de dados no Mobile (React/TypeScript/BlueBird.js);
+- Desenvolver um microserviço utilizando banco de dados orientado a Grafos (Neo4J), e neste microserviço utilizar tree-hateaos na API Rest;
+- Realizar code review;
+- Realizar treinamento e suporte para o setor de implantação;
+- Documentar APIs (Swagger, OpenAPI);
+- Desenvolver integração com AWS S3;
+- Desenvolver um manipulador de Arquivo Microsoft Office, utilizando a biblioteca Apache POI;
+
 
 
 
